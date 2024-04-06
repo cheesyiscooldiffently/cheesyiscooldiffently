@@ -1,0 +1,19 @@
+{
+    "name": "Bug-content",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Just a bunch of bug fixing mods and more",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+"zatrit-CWMouseWheel-1.0.19",
+"ViViKo-MoreSounds-1.0.1",
+"sonodima-BetterLobby-1.0.1",
+"Ryokune-InputAPI-1.0.0",
+"Uprank-Any_Sprint_Direction-1.0.0",
+	"Ikeiwa-RagdollAnywhere-1.0.0",
+"bananaturtlesandwich-SuitColours-1.0.2",
+	"Fleig-CustomFov-1.0.0",
+"maysunrise-SimpleChat-1.0.0",
+	"Astro-BetterSprint-0.0.2"
+    ]
+}
